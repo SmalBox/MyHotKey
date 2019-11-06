@@ -20,7 +20,7 @@
             | j | Numpad **4** | k | Numpad **5** | l | Numpad **6** |
             | m | Numpad **1** | , | Numpad **2** | . | Numpad **3** |
             | RAlt | Numpad **0** | n | **+** | h | **-** |
-            | b | ** \* ** | / | ** / ** | RShift | **.** |
+            | b | **\*** | / | **/** | RShift | **.** |
 ## 使用说明
    1. 下载安装 **[AutoHotkey](https://www.autohotkey.com/)**
    2. 下载本脚本 **"MyHotKey.ahk"**
