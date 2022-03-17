@@ -3,6 +3,9 @@
 SendMode, Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+;切换开启关闭按键映射快捷键
+Space & `::suspend
+
 ;切换左边大写和ctrl键位
 CapsLock::LControl
 LControl::CapsLock
